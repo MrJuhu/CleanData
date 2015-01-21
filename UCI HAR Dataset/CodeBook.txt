@@ -1,0 +1,70 @@
+Measurement:			Info:
+tBodyAcc-mean()-X		Mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+tBodyAcc-mean()-Y		Mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+tBodyAcc-mean()-Z		Mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+tBodyAcc-std()-X		Standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+tBodyAcc-std()-Y		Standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+tBodyAcc-std()-Z		Standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+tGravityAcc-mean()-X		Mean of gravity accelerator signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+tGravityAcc-mean()-Y		Mean of gravity acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+tGravityAcc-mean()-Z		Mean of graviy acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+tGravityAcc-std()-X		Standar deviation of gravity accelerator signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+tGravityAcc-std()-Y		Standar deviation of gravity accelerator signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+tGravityAcc-std()-Z		Standar deviation of gravity accelerator signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+tBodyAccJerk-mean()-X		Mean of body linear acceleration derived in time – X-axis
+tBodyAccJerk-mean()-Y		Mean of body linear acceleration derived in time – Y-axis
+tBodyAccJerk-mean()-Z		Mean of body linear acceleration derived in time – Z-axis
+tBodyAccJerk-std()-X		Standar deviation of body linear acceleration – X-axis
+tBodyAccJerk-std()-Y		Standar deviation of body linear acceleration – Y-axis
+tBodyAccJerk-std()-Z		Standar deviation of body linear acceleration – Z-axis
+tBodyGyro-mean()-X		Mean of body angular acceleration – X-axis
+tBodyGyro-mean()-Y		Mean of body angular acceleration – Y-axis
+tBodyGyro-mean()-Z		Mean of body angular acceleration – Z-axis
+tBodyGyro-std()-X		Standar deviation of body angular acceleration derived in time – X-axis
+tBodyGyro-std()-Y		Standar deviation of body angular acceleration derived in time – Y-axis
+tBodyGyro-std()-Z		Standar deviation of body angular acceleration derived in time – Z-axis
+tBodyGyroJerk-mean()-X		Mean of body angular acceleration derived in time – X-axis
+tBodyGyroJerk-mean()-Y		Mean of body angular acceleration derived in time – Y-axis
+tBodyGyroJerk-mean()-Z		Mean of body angular acceleration derived in time – Z-axis
+tBodyGyroJerk-std()-X		Standar deviation of body angular acceleration derived in time – X-axis
+tBodyGyroJerk-std()-Y		Standar deviation of body angular acceleration derived in time – Y-axis
+tBodyGyroJerk-std()-Z		Standar deviation of body angular acceleration derived in time – Z-axis
+tBodyAccMag-mean()		Mean of magnitude of linear accleration calculated using Euclidean nom
+tBodyAccMag-std()		Standar deviation of linear accleration calculated using Euclidean nom
+tGravityAccMag-mean()		Mean of magnitude of linear gravity accleration calculated using Euclidean nom derived in time
+tGravityAccMag-std()		Standar deviation of linear gravity acceleration calculated using Euclidean nom  derived in time
+tBodyAccJerkMag-mean()		Mean of magnitude of linear body acceleration calculated using Euclidean nom derived in time
+tBodyAccJerkMag-std()		Standar deviation of linear body acceleration calculated using Euclidean nom  derived in time
+tBodyGyroMag-mean()		Mean of magnitude of body acceleration calculated using Euclidean norm
+tBodyGyroMag-std()		Standar deviation of body acceleration calculated using Euclidean norm
+tBodyGyroJerkMag-mean()		Mean of magnitude of body acceleration calculated using Euclidean norm derived in time
+tBodyGyroJerkMag-std()		Standar deviation of acceleration calculated using Euclidean norm derived in time
+fBodyAcc-mean()-X		Fast Fourier Transformed mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+fBodyAcc-mean()-Y		Fast Fourier Transformed mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+fBodyAcc-mean()-Z		Fast Fourier Transformed mean of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+fBodyAcc-std()-X		Fast Fourier Transformed standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – X-axis
+fBodyAcc-std()-Y		Fast Fourier Transformed standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Y-axis
+fBodyAcc-std()-Z		Fast Fourier Transformed standar deviation of body acceleratormeter signal filtered using low pass Butterworth with a corner frequency of 0.3 Hz – Z-axis
+fBodyAccJerk-mean()-X		Fast Fourier Transformed mean of body linear acceleration derived in time – X-axis
+fBodyAccJerk-mean()-Y		Fast Fourier Transformed mean of body linear acceleration derived in time – Y-axis
+fBodyAccJerk-mean()-Z		Fast Fourier Transformed mean of body linear acceleration derived in time – Z-axis
+fBodyAccJerk-std()-X		Fast Fourier Transformed standar deviation of body linear acceleration derived in time – X-axis
+fBodyAccJerk-std()-Y		Fast Fourier Transformed standar deviation of body linear acceleration derived in time – Y-axis
+fBodyAccJerk-std()-Z		Fast Fourier Transformed standar deviation of body linear acceleration derived in time – Z-axis
+fBodyGyro-mean()-X		Fast Fourier Transformed mean of body angular acceleration – X-axis
+fBodyGyro-mean()-Y		Fast Fourier Transformed mean of body angular acceleration – Y-axis
+fBodyGyro-mean()-Z		Fast Fourier Transformed mean of body angular acceleration – Z-axis
+fBodyGyro-std()-X		Fast Fourier Transformed standar deviation of body angular acceleration derived in time – X-axis
+fBodyGyro-std()-Y		Fast Fourier Transformed standar deviation of body angular acceleration derived in time – Y-axis
+fBodyGyro-std()-Z		Fast Fourier Transformed standar deviation of body angular acceleration derived in time – Z-axis
+fBodyAccMag-mean()		Fast Fourier Transformed mean of magnitude of linear accleration calculated using Euclidean nom
+fBodyAccMag-std()		Fast Fourier Transformed standar deviation of magnitude of linear accleration calculated using Euclidean nom
+fBodyBodyAccJerkMag-mean()	Fast Fourier Transformed mean of magnitude of body linear acceleration calculated using Euclidean nom derived in time
+fBodyBodyAccJerkMag-std()	Fast Fourier Transformed standar deviation of magnitude of body linear acceleration calculated using Euclidean nom derived in time
+fBodyBodyGyroMag-mean()		Fast Fourier Transformed mean of magnitude of body angular acceleration calculated using Euclidean norm
+fBodyBodyGyroMag-std()		Fast Fourier Transformed standar deviation of magnitude of body angular acceleration calculated using Euclidean norm
+fBodyBodyGyroJerkMag-mean()	Fast Fourier Transformed mean of magnitude of body angular acceleration calculated using Euclidean norm derived in time
+fBodyBodyGyroJerkMag-std()	Fast Fourier Transformed standar deviation of body angular acceleration calculated using Euclidean norm derived in time
+activityLabel			activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+subject				Identifier of the volunteer who has done the activity
+

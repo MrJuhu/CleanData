@@ -10,6 +10,6 @@ Project work for Getting and Clening Data
 3.Run Script
 	R --file=run_analysis.R	
 
-4.Script write data to file automatically
-	tidyData.txt
+4.Script returns tidy data set and writes the same data to file automatically
+	cat tidyData.txt
 
